@@ -42,4 +42,4 @@ todo-app/
 
 ## Contributing
 
-Contributions are welcome. You can improve documentation, fix bugs, or suggest useful enhancements through GitHub pull requests.
+Contributions are welcome. To contribute, create a separate branch, make your changes, test them, and submit a pull request with a clear description of the updates.
